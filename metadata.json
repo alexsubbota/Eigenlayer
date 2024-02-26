@@ -1,0 +1,7 @@
+{
+  "name": "torry",
+  "website": "www.example.com",
+  "description": "I operate on some data",
+  "logo": "https://eu-central.storage.cloudconvert.com/tasks/fe7c632d-909d-4ec0-b2b5-004c4150ed6c/Screenshot-5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240226%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240226T143208Z&X-Amz-Expires=86400&X-Amz-Signature=36d65b88a35aede39bc113f8c4f4f6c6d07fb9ff11b3db504b5d937f397c35b1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Screenshot-5.png%22&response-content-type=image%2Fpng&x-id=GetObject",
+  "twitter": "https://x.com/example"
+}
